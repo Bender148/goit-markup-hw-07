@@ -614,6 +614,10 @@ img {
 }
 
 .overlay {
+  font-weight: var(--main-font);
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  line-height: 28px;
   position: absolute;
   top: 0;
   left: 0;
